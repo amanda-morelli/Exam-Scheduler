@@ -2,8 +2,6 @@
 Created on Tue Mar 31 13:43:11 2020
 
 EXAM SCHEDULER PROJECT
-ESC190
-
 RIDAM LOOMBA
 
 exam_scheduler.py
