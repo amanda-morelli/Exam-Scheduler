@@ -1,8 +1,10 @@
 # Exam-Scheduler
 
-Contributers: 
+Collaborators: 
+
 Amanda Morelli 
-Ridam Loomba 
+
+/tRidam Loomba 
 
 ---------------------------------------
 
