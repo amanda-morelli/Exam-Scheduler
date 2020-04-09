@@ -4,7 +4,7 @@ Collaborators:
 
 Ridam Loomba & Amanda Morelli
 
----------------------------------------
+----------------------------------------
 
 This is a project I recently made in Python in which one can create an exam schedule for multiple exams on any given day. 
 The user may input the time, date, location, class size, course code and priority of the exam. This program recognizes over-loaded exams, 
@@ -16,5 +16,5 @@ and to better understand global variabes.
 
 To use this program, simply run the GUI file, and have fun inputing a scehdule! 
 
----------------------------------------
+----------------------------------------
 
