@@ -2,9 +2,7 @@
 
 Collaborators: 
 
-Amanda Morelli 
-
-/tRidam Loomba 
+Ridam Loomba & Amanda Morelli
 
 ---------------------------------------
 
